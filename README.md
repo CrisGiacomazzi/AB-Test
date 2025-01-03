@@ -83,7 +83,9 @@ Figure 3. Dashboard generated from Google Colab connected with Power BI, depicts
 ## 10. References
 
 Freifeld, L. (November 14, 2023). 2023 Training Industry Report. 
+
 Indeed. (September 6, 2023). Understanding the Importance of Training Employees. 
+
 Skillsoft. 2024. How to Know If Your Learning Program Is Working. 
 
 
