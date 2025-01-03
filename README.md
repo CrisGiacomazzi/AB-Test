@@ -15,7 +15,7 @@ The following topics will be presented:
 8. Results
 9. Communication and Action
   a.Data visualization
-  b.Mynthos Pyramides Analysis
+  b.Minthos Pyramides Analysis
 10. References
 
 ## 1. Business Understanding
@@ -76,7 +76,7 @@ Power BI
 
 Figure 3. Dashboard generated from Google Colab connected with Power BI, depicts a summary of the investigation, suggesting a review of the employee training.
 
-### b. Mynthos Pyramides Analysis
+### b. Minthos Pyramides Analysis
 
 <img width="595" alt="Screen Shot 2024-12-30 at 12 59 01 PM" src="https://github.com/user-attachments/assets/d35984df-ceca-4890-a1e0-d7cac0a64547" />
 
