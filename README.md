@@ -52,7 +52,9 @@ Table by author (2024)
 ## 7. Project Plan
 
 Following the definition of the research question, a **hypotheses test** was developed. A thorough **data preparation process**, including cleaning, organization, and the creation of analytical variables, ensured data integrity. **Exploratory Data Analysis** (EDA) revealed key insights into the data, informing the subsequent statistical analysis. A **t-test** was employed to evaluate the statistical significance (_p-value_ < 0.05) differences between the means of the two groups (2019 vs 2020), directly addressing the research question. The t-test results provided a clear basis for evaluating the initial hypotheses and guiding further action. V**isualization (graphs) in Python and Power BI** was strategically used to communicate these findings effectively to stakeholders, facilitating understanding and decision-making. Furthermore, a **Mynthos Pyramides Analysis and an SCQA framework** were done to ensure effective, quick, and clear communication of complex issues to business executives.
+
 <img width="633" alt="Screen Shot 2024-12-30 at 12 55 00 PM" src="https://github.com/user-attachments/assets/8c8a202b-63ba-4fc4-b7ca-bce0418881d7" />
+
 Figure 1 made by author (2024)
 
 ## 8. Results
