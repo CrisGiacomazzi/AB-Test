@@ -46,6 +46,7 @@ The original dataset was filtered using 2019 and 2020 dates, to align with the p
 
 <img width="640" alt="Screen Shot 2024-12-30 at 12 52 39 PM" src="https://github.com/user-attachments/assets/f402a82f-b3ce-4043-b70e-861d32c17395" />
 
+
 Table by author (2024)
 
 ## 7. Project Plan
